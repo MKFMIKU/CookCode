@@ -1,8 +1,7 @@
 # CookCode
 CookCode Project
 
-This is cook code project.
 
-We will use：
+# Project we use
 
-https://github.com/bevacqua/dragula
+🤠 https://github.com/bevacqua/dragula
